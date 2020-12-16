@@ -38,7 +38,7 @@ namespace Prog1
                     Console.Write("{0} ", num);
             }
             Console.Write("\n");
-            Console.WriteLine("-- Keerthivasan J --")
+            Console.WriteLine("-- Keerthivasan J --");
             Console.ReadKey();
         }
     }
